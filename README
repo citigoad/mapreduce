@@ -1,0 +1,12 @@
+mathstats.py is the file with sum, standard deviation and count
+
+I have imported numpy for standard deviation function and used numpy.std which accepts a list and give the output.
+
+primes.py is the file which gives all the primes between 2 and 10000000
+
+I have used chunks of 5000 and sent to the map function. I have first calculated number of palindromes and then calculated whether it
+is prime or not.
+
+passCrack.py is the file which cracks the password with the first 5 letters hash
+
+
